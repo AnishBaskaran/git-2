@@ -34,4 +34,12 @@ System.out.println();
 //function calling  
 printPattern(n);  
 }  
-}  
+}
+sdsjh
+ad
+dfs
+dfsdf
+sd
+sdf
+sdfs
+fs
